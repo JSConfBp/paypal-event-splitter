@@ -1,0 +1,33 @@
+{
+  "name": "paypal-event-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx next",
+    "build": "npx next build",
+    "start": "npx next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSConfBp/paypal-event-splitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSConfBp/paypal-event-splitter/issues"
+  },
+  "homepage": "https://github.com/JSConfBp/paypal-event-splitter#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
+    "@weco/next-plugin-transpile-modules": "0.0.2",
+    "@zeit/next-sass": "^1.0.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "node-sass": "^4.10.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
